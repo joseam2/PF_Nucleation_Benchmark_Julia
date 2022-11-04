@@ -1,9 +1,14 @@
 # PF_Nucleation_Benchmark_Julia
 
 ## Introduction and Motivation
-This repository represents a phase field benchmark described in PF Hub: https://pages.nist.gov/pfhub/benchmarks/benchmark8.ipynb/
+This repository was inspired by a phase field benchmark described in PF Hub: https://pages.nist.gov/pfhub/benchmarks/benchmark8.ipynb/
 
-The paper that was written describing this repository is published in the IMMI journal and is available here: https://arxiv.org/abs/2210.16866
+The paper that was written describing this repository in full detail is published in the IMMI journal on November 3rd and is available here:
+https://doi.org/10.1007/s40192-022-00284-1
+https://arxiv.org/abs/2210.16866
+
+This paper can be cited as such:
+Mancias, J., Attari, V., Arróyave, R. et al. On the Effect of Nucleation Undercooling on Phase Transformation Kinetics. Integr Mater Manuf Innov (2022). https://doi.org/10.1007/s40192-022-00284-1
 
 ## Methods
 This benchmark was solved and explored using Julia code with CUDA parallelization and finite difference solvers.
