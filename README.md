@@ -4,7 +4,9 @@
 This repository was inspired by a phase field benchmark described in PF Hub: https://pages.nist.gov/pfhub/benchmarks/benchmark8.ipynb/
 
 The paper that was written describing this repository in full detail is published in the IMMI journal on November 3rd and is available here:
+
 https://doi.org/10.1007/s40192-022-00284-1
+
 https://arxiv.org/abs/2210.16866
 
 This paper can be cited as such:
